@@ -11,6 +11,6 @@ I also try to using the vae structure in cnn, same, it also not very useful.the 
 
 After this try,i think maybe add the original pic will change(i don't think using just pic is a good idea,even i cannot distinguish just by my eyes),I add the 2D into the CNN-model and cat the previous feature in to linear layer.But it still not have a satisfactory preformance.So I ADD SVM to replace the prediction sectionof the CNN model.
 
-It work, not very well.I am sure this kinda structure does have full potential after tuning and training by great scala of data.But it exhausted all my patience.
+It work, not very well(approximate 50per).I am sure this kinda structure does have full potential after tuning and training by great scala of data.But it exhausted all my patience.
 
 SHIT!
