@@ -2,7 +2,7 @@
 
 Using ML and DL technique to perform EIS Equivalent Circuit Model (ECM) predictions
 
-Actually,in this project i have try many method to solve the problem.
+Actually,in this project i have try many method to solve the problem.The main.py file is just using features to classify.
 At first,I think  this kinda of classification problem easy to solve for CNN or some other DL method.But Unfortunately when i meet the poor scala of data,i know the reason why previous research just tyr to using ML.
 Whatever,i think i should give it a shit and maybe it works?
 
